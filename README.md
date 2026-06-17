@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Bruno Becerra 👋</h1>
-<h3 align="center">Estudiante de Ing.Informatica</h3>
+<h3 align="center">Estudiante de Ing.Informática</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
